@@ -5,3 +5,4 @@ Git has a mutable index called stag.
 13:02
 Creating a new branch is quick and simple,KSKBL?
 merge
+12:53
